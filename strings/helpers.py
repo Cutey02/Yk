@@ -1,13 +1,4 @@
-#
-# Copyright (C) 2021-2022 by TeamYukki@Github, < https://github.com/TeamYukki >.
-#
-# This file is part of < https://github.com/TeamYukki/YukkiMusicBot > project,
-# and is released under the "GNU v3.0 License Agreement".
-# Please see < https://github.com/TeamYukki/YukkiMusicBot/blob/master/LICENSE >
-#
-# All rights reserved.
-
-HELP_1 = """✅**<u>Admin Commands:</u>**
+HELP_1 = """⎘**<u>Admin Commands:</u>**
 
 **c** stands for channel play.
 
@@ -23,15 +14,15 @@ HELP_1 = """✅**<u>Admin Commands:</u>**
 /restart - Restart bot for your chat .
 
 
-✅<u>**Specific Skip:**</u>
+↬<u>**Specific Skip:**</u>
 /skip or /cskip [Number(example: 3)] 
     - Skips music to a the specified queued number. Example: /skip 3 will skip music to third queued music and will ignore 1 and 2 music in queue.
 
-✅<u>**Loop Play:**</u>
+↬<u>**Loop Play:**</u>
 /loop or /cloop [enable/disable] or [Numbers between 1-10] 
     - When activated, bot loops the current playing music to 1-10 times on voice chat. Default to 10 times.
 
-✅<u>**Auth Users:**</u>
+↬<u>**Auth Users:**</u>
 Auth Users can use admin commands without admin rights in your chat.
 
 /auth [Username] - Add a user to AUTH LIST of the group.
@@ -39,7 +30,7 @@ Auth Users can use admin commands without admin rights in your chat.
 /authusers - Check AUTH LIST of the group."""
 
 
-HELP_2 = """✅<u>**Play Commands:**</u>
+HELP_2 = """⎘<u>**Play Commands:**</u>
 
 Available Commands = play , vplay , cplay
 
@@ -56,17 +47,17 @@ ForcePlay Commands = playforce , vplayforce , cplayforce
 /channelplay [Chat username or id] or [Disable] - Connect channel to a group and stream music on channel's voice chat from your group.
 
 
-✅**<u>Bot's Server Playlists:</u>**
+↬**<u>Bot's Server Playlists:</u>**
 /playlist  - Check Your Saved Playlist On Servers.
 /deleteplaylist - Delete any saved music in your playlist
 /play  - Start playing Your Saved Playlist from Servers."""
 
 
-HELP_3 = """✅<u>**Bot Commands:**</u>
+HELP_3 = """⎘<u>**Bot Commands:**</u>
 
 /stats - Get Top 10 Tracks Global Stats, Top 10 Users of bot, Top 10 Chats on bot, Top 10 Played in a chat etc etc.
 
-/sudolist - Check Sudo Users of Yukki Music Bot
+/sudolist - Cʜᴇᴄᴋ Sᴜᴅᴏ ᴜsᴇʀs ᴏғ Dᴀɴɢᴇʀᴏᴜs ᴍᴜsɪᴄ ʙᴏᴛ
 
 /lyrics [Music Name] - Searches Lyrics for the particular Music on web.
 
@@ -78,12 +69,12 @@ HELP_3 = """✅<u>**Bot Commands:**</u>
 
 /queue or /cqueue- Check Queue List of Music."""
 
-HELP_4 = """✅<u>**Extra  Commands:**</u>
+HELP_4 = """⎘<u>**Extra  Commands:**</u>
 /start - Start the Music Bot.
 /help  - Get Commands Helper Menu with detailed explanations of commands.
 /ping- Ping the Bot and check Ram, Cpu etc stats of Bot.
 
-✅<u>**Group Settings:**</u>
+⎘<u>**Group Settings:**</u>
 /settings - Get a complete group's settings with inline buttons
 
 🔗 **Options in Settings:**
@@ -131,22 +122,22 @@ HELP_5 = """🔰**<u>ADD & REMOVE SUDO USERS :</u>**
 /get_log [Number of Lines] - Get log of your bot from heroku or vps. Works for both.
 /autoend [enable|disable] - Enable Auto stream end after 3 mins if no one is listening.
 
-📈**<u>STATS COMMANDS:</u>**
+⤴**<u>STATS COMMANDS:</u>**
 /activevoice - Check active voice chats on bot.
 /activevideo - Check active video calls on bot.
 /stats - Check Bots Stats
 
-⚠️**<u>BLACKLIST CHAT FUNCTION:</u>**
+⨶**<u>BLACKLIST CHAT FUNCTION:</u>**
 /blacklistchat [CHAT_ID] - Blacklist any chat from using Music Bot
 /whitelistchat [CHAT_ID] - Whitelist any blacklisted chat from using Music Bot
 /blacklistedchat - Check all blacklisted chats.
 
-👤**<u>BLOCKED FUNCTION:</u>**
+⨷**<u>BLOCKED FUNCTION:</u>**
 /block [Username or Reply to a user] - Prevents a user from using bot commands.
 /unblock [Username or Reply to a user] - Remove a user from Bot's Blocked List.
 /blockedusers - Check blocked Users Lists
 
-👤**<u>GBAN FUNCTION:</u>**
+⦻**<u>GBAN FUNCTION:</u>**
 /gban [Username or Reply to a user] - Gban a user from bot's served chat and stop him from using your bot.
 /ungban [Username or Reply to a user] - Remove a user from Bot's gbanned List and allow him for using your bot
 /gbannedusers - Check Gbanned Users Lists
