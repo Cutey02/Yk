@@ -140,8 +140,8 @@ cplay_5 : "Only Channels are supported."
 cplay_6 : "You need to be the **Owner** of the channel[{0}] to connect it with this group.\n**Channel's Owner:** @{1}\n\nAlternatively you can link your group to that channel and then try connnecting with `/channelplay linked`"
 
 #Play
-play_1 : "😈"
-play_2 : "**🏷Channel Play Mode**\n\n😈\n**Linked Channel:** {0}"
+play_1 : "🎶"
+play_2 : "**🏷Channel Play Mode**\n\n🎶\n**Linked Channel:** {0}"
 play_3 : "Failed to Process Query!"
 play_4 : "🖇 **Admins Only Play**\nOnly Admins and Auth Users can play music in this group.\n\nChange mode via /playmode and if you're already admin, reload admincache via /admincache"
 play_5 : "Failed to process audio file.\n\nAudio File Size Should Be Less Than 100 mb"
@@ -221,20 +221,20 @@ song_11 : "Uploading Started\n\nUploading speed could be slow. Please hold on.."
 queue_1 : "Please Wait..Fetching Queue.."
 queue_2 : "Queued List is empty. No tracks found"
 queue_3 : "<u>**Queued Tracks:</u>**  [Checkout More Queued Tracks From Here]({0})"
-queue_4 : "⏳  ᴀᴅᴅᴇᴅ ᴛᴏ ᴺˣᵗ ᵀʳᵃᶜᵏ at **#{0}\n\n💡Title:** {1}\n**⏱Duration:** {2}\n👤**Added By:** {3}"
+queue_4 : "⌭ ᴀᴅᴅᴇᴅ ᴛᴏ ᴺˣᵗ ᵀʳᵃᶜᵏ at **#{0}\n\n⎙Title:** {1}\n\n**⎉Duration:** {2}\n\n⎆**Added By:** {3}"
 queue_5 : "Only one track inside queue, Please add some more to check list"
 
 # All Streaming Lines
-stream_1 : "**вαє 😈 ρℓαуιηg мυѕι¢ 🎶** 💡\n\n🦹‍♀**Requested By:** {0}\n🔦**Information: **[Here]({1})"
-stream_2 : "📡 **вαє 😈 ρℓαуιηg мυѕι¢ 🎶 via URL ** 💡\n\n🦹‍♀**Requested By:** {0}"
-stream_3 : "📡 **вαє 😈 ρℓαуιηg мυѕι¢ 🎶** 💡\n\n**🏷Title:** {0}\n⌛️**Duration**: {1}\n🦹‍♀**Requested By:** {2}"
-stream_4 : "📡 **вαє 😈 ρℓαуιηg мυѕι¢ 🎶** 💡\n\n**🏷Title:** [{0}]({1})\n⌛️**Duration**: {2}\n🦹‍♀**Requested By:** {3}"
+stream_1 : "**Mᴀᴄʜɪɪ вαє ⎚ ρℓαуιηg мυѕι¢ 🎶** ⎙\n\n\n🦹‍♀**Requested By:** {0}\n\n⏍**Information: **[Here]({1})"
+stream_2 : "⎘ **Mᴀᴀᴄʜɪɪ вαє ⎚ ρℓαуιηg мυѕι¢ 🎶 via URL ** ⎙\n\n🦹‍♀**Requested By:** {0}"
+stream_3 : "⎘ **ᴍᴀᴄʜɪɪ вαє ⎚ ρℓαуιηg мυѕι¢ 🎶** 💡\n\n**🏷Title:** {0}\n⌛️**Duration**: {1}\n🦹‍♀**Requested By:** {2}"
+stream_4 : "📡 **ᴍᴀᴄʜɪɪ вαє ⎚ ρℓαуιηg мυѕι¢ 🎶** 💡\n\n**🏷Title:** [{0}]({1})\n⌛️**Duration**: {2}\n🦹‍♀**Requested By:** {3}"
 
 # Inline Buttons
 
 #General Buttons
-CLOSE_BUTTON  : "↻ Cʟᴏsᴇ ↻"
-CLOSEMENU_BUTTON  : "↻ Cʟᴏsᴇ ↻"
+CLOSE_BUTTON  : "⨴ Cʟᴏsᴇ ⨵"
+CLOSEMENU_BUTTON  : "⨴ Cʟᴏsᴇ ⨵"
 BACK_BUTTON : "◁"
 UNBAN_BUTTON : "• Uɴʙᴀɴ •"
 
@@ -242,23 +242,23 @@ UNBAN_BUTTON : "• Uɴʙᴀɴ •"
 L_B_1 : "🚀 Checkout Lyrics Now"
 
 # Start
-S_B_1 : "🗒 Commands"
-S_B_2 : "🔧 Settings"
-S_B_3 : "📨 Support"
-S_B_4 : "📨 Updates"
-S_B_5 : "✚ Add me To Your Group"
-S_B_6 : "💡 Git Repo"
-S_B_7 : "👤 Bot Owner"
-S_B_8 : "🔎 How to Use? Commandss Menu."
+S_B_1 : "⧪ Cᴏᴍᴍᴀɴᴅs"
+S_B_2 : "⧮ sᴇᴛᴛɪɴɢs"
+S_B_3 : "⧠ Sᴜᴘᴘᴏʀᴛ⬏"
+S_B_4 : "⏍ Cʜᴀɴɴᴇʟ⬏"
+S_B_5 : "⎆ ⌜ᴀᴅᴅ ᴍᴇ ᴛᴏ ɢʀᴏᴜᴘ⌟ "
+S_B_6 : "⧗ Gɪᴛ Rᴇᴘᴏ"
+S_B_7 : "『Oᴡɴᴇʀ』"
+S_B_8 : "𐏕ʜᴇʟᴘ ᴄᴏᴍᴍᴀɴᴅ𐏕"
 
 #Help 
-H_B_1 : "👤 Aᴅᴍɪɴ"
-H_B_2 : " Pʟᴀʏ 🎥"
-H_B_3 : "👨‍⚖️ Bᴏᴛ "
-H_B_4 : "Exᴛʀᴀ ⚙️"
-H_B_5 : "↻ Cʟᴏsᴇ ↻"
-H_B_6 : "👥 Sᴜᴅᴏ 👥"
-H_B_7 : " Mᴏᴅᴜʟᴇ "
+H_B_1 : "⧌ Aᴅᴍɪɴ"
+H_B_2 : " Pʟᴀʏ ⫷"
+H_B_3 : "⨹ Bᴏᴛ "
+H_B_4 : "Exᴛʀᴀ ⧩"
+H_B_5 : "⨴ Cʟᴏsᴇ ⨵"
+H_B_6 : "⨻ Sᴜᴅᴏ ⨻"
+H_B_7 : "⦳ Mᴏᴅᴜʟᴇ "
 
 
 #PlayMode
