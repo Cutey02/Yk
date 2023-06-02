@@ -2,9 +2,6 @@ import random
 
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-import config
-from ShizukaXMusic.utils.formatters import time_to_seconds
-
 
 ## After Edits with Timer Bar
 
